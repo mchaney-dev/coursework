@@ -1,0 +1,14 @@
+Soccer Team Roster
+
+This program will store roster and rating information for a soccer team. Coaches rate players during tryouts to ensure a balanced team. Given a player's jersey number (0 - 99) and rating (1 - 9), you will need to:
+
+Prompt the user to input any number of pairs of numbers: a player's jersey number (0 - 99) and the player's rating (1 - 9). Store the jersey numbers in one array and the ratings in another array.
+
+Implement a menu of options for a user to modify the roster. Each option is represented by a single character. The program initially outputs the menu, and the program ends when the user chooses the option to Quit.
+
+- Output roster - Prints the roster
+- Update player rating - Prompts the user for a player's jersey number. If the player is in the roster, then prompts again for a new rating for the player. Updates that player's rating. If the player is not in the roster, prints "Player not in roster."
+- Output players above a rating - Prompts the user for a rating. Prints the jersey number and rating for all players with ratings above the entered value.
+- Replace player - Prompts the user for the jersey number of the player to replace. If the player is in the roster, then prompts again for a new jersey number and rating. Updates the replaced player's jersey number and rating. If the player is not in the roster, prints "Player not in roster."
+
+For full credit, you must use proper formatting (indentation and whitespace) and include appropriate comments in your code.
