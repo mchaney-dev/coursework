@@ -1,5 +1,5 @@
 # coursework #
-A collection of assignments from various Computer Science courses.
+A collection of assignments from various computer science courses.
 ### Directory ###
 > **[C](./C)** - Code written in plain C
 > 
