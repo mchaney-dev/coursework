@@ -1,10 +1,10 @@
 # coursework #
 A collection of assignments from various Computer Science courses.
 ### Directory ###
-> **[C](../C)** - Code written in plain C
+> **[C](./C)** - Code written in plain C
 > 
-> - [soccer-team-roster](../C/soccer-team-roster)
+> - [soccer-team-roster](./C/soccer-team-roster)
 > 
-> **[microsoft-office](../microsoft-office)** - Assignments in various Microsoft Office file formats
+> **[microsoft-office](./microsoft-office)** - Assignments in various Microsoft Office file formats
 > 
-> - [relational-database](../microsoft-office/relational-database)
+> - [relational-database](./microsoft-office/relational-database)
